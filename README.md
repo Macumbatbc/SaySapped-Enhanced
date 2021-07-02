@@ -2,7 +2,7 @@
 An enhanced version of SaySapped for TBC Classic, which announce all CC and not only Sap.
 Inspired by an old version from 2.4.3 client.
 
-All spells announced :
+# All spells announced :
 - Sap
 - Silence (mage priest hunter lock)
 - KS
