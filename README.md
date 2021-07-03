@@ -26,3 +26,6 @@ Inspired by an old version from 2.4.3 client.
 
 
 ![image](https://user-images.githubusercontent.com/85767653/124333329-1d691200-db94-11eb-9b7c-ec62244f76d0.png)
+
+
+# How to install
