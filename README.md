@@ -29,3 +29,4 @@ Inspired by an old version from 2.4.3 client.
 
 
 # How to install
+Download the file and extract it. rename the folder "SaySapped"
